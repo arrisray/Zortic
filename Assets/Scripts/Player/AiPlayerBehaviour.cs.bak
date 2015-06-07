@@ -1,0 +1,13 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+[Serializable]
+public class AiPlayerBehaviour
+{
+	// public List<InputManager.ActionType> actions = new List<InputManager.ActionType>();
+	// public Vector2 frequency = Vector2.zero;
+	// public Vector2 duration = Vector2.zero;
+	// public List<Steering> steerings = new List<Steering>();
+}
