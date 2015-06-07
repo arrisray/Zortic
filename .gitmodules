@@ -1,0 +1,6 @@
+[submodule "Private"]
+	path = Private
+	url = git@arris.bitbucket.org:arris/zortic-private
+[submodule "Assets/Private"]
+	path = Assets/Private
+	url = git@arris.bitbucket.org:arris/zortic-private
